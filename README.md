@@ -17,7 +17,7 @@ Duo Zhou: zd0009@uchicago.edu
 - Final Report: This folder contains the final report about how we implement those models
 
 # Data
-Dog Breed Identification (https://www.kaggle.com/c/dog-breed-identification/overview)
+Dog Breed Identification (https://www.kaggle.com/c/dog-breed-identification/data)
 
 # Project Description
 In this project, we built several machine learning models and deep learning models to predict the breed of a dog. Models are listed:
