@@ -16,26 +16,15 @@ Duo Zhou: zd0009@uchicago.edu
 - Raw Code: This folder includes the Python code for explanatory data analysis, feature engineering, and deep learning models
 - Final Report: This folder contains the final report about how we implement those models
 
-# Project Description
-In this project, we built several machine learning models and deep learning models to predict whether a image is dog or cat.
-
 # Data
+Dog Breed Identification (https://www.kaggle.com/c/dog-breed-identification/overview)
 
-
-# Brief on Project Workflow
-### 1. EDA & Feature Engineering
-- Data Overview
-- Feature Engineering
-- Data Cleaning
-
-### 2. Model Building
+# Project Description
+In this project, we built several machine learning models and deep learning models to predict the breed of a dog. Models are listed:
 - Traditional Machine Learning Models
 - Convolutional Neural Network (CNN)
 - VGG-19
 - ResNet50
 - ResNet151V2
 - Xception
-
-### 4. Model Evaluation
-- AUC
 
